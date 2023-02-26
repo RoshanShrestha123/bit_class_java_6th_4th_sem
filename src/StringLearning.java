@@ -1,11 +1,15 @@
 public class StringLearning {
-    public static void main(java.lang.String[] args) {
-        // String are Immutable.
-        // Create new String with new keyword
-        String str = new String("Hello world");
-        str = str + " Kist"; //its not mutable, new obj is created.
-        str.toUpperCase(); // its not mutable, new object is created.
+    public static void main(String[] args) {
+        // String only [Immutable]
+    String str = "Hello";
+    str.toUpperCase();
+    String str2 = new String("Hello");
+    System.out.println(str.equals(str2));
 
-        System.out.println(str);
+    // StringBuffer [Mutable]
+        StringBuffer name = new StringBuffer("Roshan");
+        name.append("Shrestha"); // this will modify the stringBuffer
+
+        System.out.println(name);
     }
 }
