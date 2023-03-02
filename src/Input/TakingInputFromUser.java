@@ -1,3 +1,5 @@
+package Input;
+
 import java.util.Scanner;
 
 public class TakingInputFromUser {

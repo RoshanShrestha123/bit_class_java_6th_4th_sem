@@ -1,3 +1,5 @@
+package Array_And_Vector;
+
 public class ArrayLearning {
     public static void main(String[] args) {
         // Create new default array of element 0 of length 5 [0,0,0,0,0]

@@ -1,3 +1,5 @@
+package conditional_statement;
+
 public class ConditionalStatement {
     public static void main(String[] args) {
         // IF-ELSE

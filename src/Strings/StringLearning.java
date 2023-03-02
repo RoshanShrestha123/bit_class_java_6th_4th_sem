@@ -1,3 +1,5 @@
+package Strings;
+
 public class StringLearning {
     public static void main(String[] args) {
         // this will be created on the String pool

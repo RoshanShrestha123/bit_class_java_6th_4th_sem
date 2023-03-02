@@ -1,3 +1,5 @@
+package Looping;
+
 public class Looping {
     public static void main(String[] args) {
         // For loop
