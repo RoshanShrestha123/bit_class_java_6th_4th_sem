@@ -13,12 +13,13 @@ Packages are used for
 -Package can be consideres as data encapsulation (or data-hiding)
 ```
 ### Package are divided into two categories
---> Built-in Package (packages from the Java API)
---> User-defined Packages (create your own packages)
+<p>--> Built-in Package (packages from the Java API)</p>
+<p>--> User-defined Packages (create your own packages)</p>
 
 <h3> Built-in Package</h3>
 <p> Built-in packages are existing java packages that come along with the JDK(Java Development KIT).For example,
 <b> java.lang</b>, <b> java.util</b> , <b>java.io</b>,etc. For example:</p>
+
 ```
 import java.util.ArrayList;
 class ArrayListUtilization{
@@ -33,7 +34,8 @@ class ArrayListUtilization{
     }
 }
 ```
-**Try the program for output**
+
+**(Try the program for output)**
 
 <h3>User-defined Package</h3>
 <p>Java also allows you to create packages as per your need. These packages are called user-defined packages</p>
