@@ -24,7 +24,7 @@ public class packageClass{
 <h4> Save the file as packageClass.java, and compile it: </h4>
 
 ```
-C:\Users\Hawana>javac packageClass.java**
+C:\Users\Hawana>javac packageClass.java
 ```
 
 <h4>Then compile the package:</h4>
@@ -35,7 +35,7 @@ C:\Users\Hawana>javac -d . packageClass.java
 <p>Note: This forces the compiler to create the "packclass" package.</p>
 <p>Note: The package name should be written in lower case to avoid conflict with class names</p>
    
-<h4> To run the packageClass.java file, write the following command </h4>
+<h4>->To run the packageClass.java file, write the following command </h4>
 
 ```
 C:\Users\Hawana>java packclass.packageClass
