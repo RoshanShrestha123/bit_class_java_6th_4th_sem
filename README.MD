@@ -25,3 +25,4 @@ If you have any questions or concerns about this repository, please contact us a
 | 1.8   | https://www.youtube.com/watch?v=F4jdtv0S0ZI <br> https://www.youtube.com/watch?v=TDqYualoxD0                                                                |
 | 1.9   | https://www.youtube.com/watch?v=RepI9tbHZvU <br>https://www.youtube.com/watch?v=IUqKuGNasdM                                                                 |
 | 1.10  | https://www.youtube.com/watch?v=eq5k7e4zXyo                                                                                                                 |
+| 1.11  | https://www.youtube.com/watch?v=aA2Db_pWv6U                                                                                                                 |
