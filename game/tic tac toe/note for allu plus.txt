@@ -1,0 +1,37 @@
+if (turn % 2 == 0){
+         platform=Play1.play1(platform);
+         turn++;
+     }
+     else {
+         platform=Play2.play2(platform);
+         turn++;
+     }
+
+platform[=  {0,1,2,3,4,5,6,7,8}
+0 1 2	1 2 3
+3 4 5==	3 5 6
+6 7 8	7 8 9
+
+done checking
+0 1 2
+------
+3 4 5
+------
+6 7 8
+-----
+0
+3
+6
+-----
+1
+4
+7
+-----
+2
+5
+8
+-----
+0
+ 4
+  8
+------
